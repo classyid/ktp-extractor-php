@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/classyid/ktp-extractor-php?style=social)
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x150?text=KTP+Extractor" alt="KTP Extractor Logo"/>
+  <img src="https://blog.classy.id/upload/gambar_berita/a26fa049152aa65e02e9c00b28a84bce_20250418212044.png" alt="KTP Extractor Logo"/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## 🚀 Demo
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x400?text=KTP+Extractor+Demo" alt="KTP Extractor Demo"/>
+  <img src="https://blog.classy.id/upload/gambar_berita/a26fa049152aa65e02e9c00b28a84bce_20250418212044.png" alt="KTP Extractor Demo"/>
 </p>
 
 ## 🔧 Instalasi
