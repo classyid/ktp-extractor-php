@@ -1,7 +1,7 @@
 # KTP Extractor PHP
 
-![License](https://img.shields.io/github/license/yourusername/ktp-extractor-php)
-![Stars](https://img.shields.io/github/stars/yourusername/ktp-extractor-php?style=social)
+![License](https://img.shields.io/github/license/classyid/ktp-extractor-php)
+![Stars](https://img.shields.io/github/stars/classyid/ktp-extractor-php?style=social)
 
 <p align="center">
   <img src="https://via.placeholder.com/200x150?text=KTP+Extractor" alt="KTP Extractor Logo"/>
